@@ -1,0 +1,19 @@
+C:\Users\MUSTAFA\Desktop\C#\Projeler\21 oyunu\21 oyunu\bin\Debug\21 oyunu.exe.config
+C:\Users\MUSTAFA\Desktop\C#\Projeler\21 oyunu\21 oyunu\bin\Debug\21 oyunu.exe
+C:\Users\MUSTAFA\Desktop\C#\Projeler\21 oyunu\21 oyunu\bin\Debug\21 oyunu.pdb
+C:\Users\MUSTAFA\Desktop\C#\Projeler\21 oyunu\21 oyunu\obj\Debug\21 oyunu.csprojResolveAssemblyReference.cache
+C:\Users\MUSTAFA\Desktop\C#\Projeler\21 oyunu\21 oyunu\obj\Debug\_21_oyunu.Form1.resources
+C:\Users\MUSTAFA\Desktop\C#\Projeler\21 oyunu\21 oyunu\obj\Debug\_21_oyunu.Properties.Resources.resources
+C:\Users\MUSTAFA\Desktop\C#\Projeler\21 oyunu\21 oyunu\obj\Debug\21 oyunu.csproj.GenerateResource.Cache
+C:\Users\MUSTAFA\Desktop\C#\Projeler\21 oyunu\21 oyunu\obj\Debug\21 oyunu.exe
+C:\Users\MUSTAFA\Desktop\C#\Projeler\21 oyunu\21 oyunu\obj\Debug\21 oyunu.pdb
+C:\Users\MUSTAFA\Desktop\C#\Projeler\Tamamlanmış projeler\21 oyunu\21 oyunu\bin\Debug\21 oyunu.exe.config
+C:\Users\MUSTAFA\Desktop\C#\Projeler\Tamamlanmış projeler\21 oyunu\21 oyunu\obj\Debug\21 oyunu.exe
+C:\Users\MUSTAFA\Desktop\C#\Projeler\Tamamlanmış projeler\21 oyunu\21 oyunu\obj\Debug\21 oyunu.pdb
+C:\Users\MUSTAFA\Desktop\C#\Projeler\Tamamlanmış projeler\21 oyunu\21 oyunu\bin\Debug\21 oyunu.exe
+C:\Users\MUSTAFA\Desktop\C#\Projeler\Tamamlanmış projeler\21 oyunu\21 oyunu\bin\Debug\21 oyunu.pdb
+C:\Users\MUSTAFA\Desktop\C#\Projeler\Tamamlanmış projeler\21 oyunu\21 oyunu\obj\Debug\21 oyunu.csproj.AssemblyReference.cache
+C:\Users\MUSTAFA\Desktop\C#\Projeler\Tamamlanmış projeler\21 oyunu\21 oyunu\obj\Debug\_21_oyunu.Form1.resources
+C:\Users\MUSTAFA\Desktop\C#\Projeler\Tamamlanmış projeler\21 oyunu\21 oyunu\obj\Debug\_21_oyunu.Properties.Resources.resources
+C:\Users\MUSTAFA\Desktop\C#\Projeler\Tamamlanmış projeler\21 oyunu\21 oyunu\obj\Debug\21 oyunu.csproj.GenerateResource.cache
+C:\Users\MUSTAFA\Desktop\C#\Projeler\Tamamlanmış projeler\21 oyunu\21 oyunu\obj\Debug\21 oyunu.csproj.CoreCompileInputs.cache
